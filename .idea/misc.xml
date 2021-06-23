@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web_logger/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-chart/pom.xml" />
+        <option value="$PROJECT_DIR$/frame/pom.xml" />
+        <option value="$PROJECT_DIR$/hive2es/pom.xml" />
+        <option value="$PROJECT_DIR$/mock/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime/pom.xml" />
+        <option value="$PROJECT_DIR$/publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_es/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="common,frame,hive2es,mock,publisher,realtime,spark_es_hive_pheneix_project,spring_es,spring_web,web_logger" />
+  </component>
+</project>

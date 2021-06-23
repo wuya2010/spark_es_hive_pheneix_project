@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.alibaba.publisher.mapper.BaseMapper">
+    <!--namespace根据自己需要创建的的mapper的路径和名称填写-->
+
+<!--    通过id查询整条数据-->
+    <select id="getRow" resultType="com.alibaba.publisher.bean.Bigdata_message">
+        select * from bigdata.hbase_observer_fail_data where id=#{id}
+    </select>
+
+</mapper>

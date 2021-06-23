@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-chart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-chart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dw-chart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frame" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frame/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hive2es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hive2es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publisher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_logger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_logger/src/main/java" charset="UTF-8" />
+  </component>
+</project>
